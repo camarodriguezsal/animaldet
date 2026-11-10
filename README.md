@@ -247,7 +247,7 @@ Este proyecto usa código de:
 Este proyecto fue desarrollado por:
 
 - **Amir Sadour** - [@amir1226](https://github.com/amir1226)
-- **Camilo Rodriguez**
+- **Camilo Rodriguez** - [@camarodriguezsal](https://github.com/camarodriguezsal)
 - **Claudia Agudelo**
 - **Luis Manrique**
 
